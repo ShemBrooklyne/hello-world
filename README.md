@@ -1,15 +1,15 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Shem Brooklyne](hhttps://github.com/ShemBrooklyne/hello-world)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
+- `git clone https://github.com/ShemBrooklyne/hello-world.git`
 - `cd hello-world`
-- `atom .`
+- `visual studio .`
 
 ## License info
 MIT License
